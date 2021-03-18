@@ -65,7 +65,7 @@ $ ganache-cli
 3. Change to project directory and Install dependencies for truffle:
 
 ```console
-$ cd todl-list-blockchain-app
+$ cd todo-list-blockchain-app
 $ npm install
 ```
 
@@ -78,7 +78,7 @@ $ truffle migrate
 ```
 
 5. As blockchain is Public Network any one in network can view th data we are storing so we need to encrypt it first i have used eth-crypto library for that, so we need to create identity,
-so create file Key.json inside todo-list-client/src/utils/Key.json folder with following code (You can also create your own identity):
+   so create file Key.json inside todo-list-client/src/utils/Key.json folder with following code (You can also create your own identity):
 
 ```console
 
@@ -93,8 +93,6 @@ so create file Key.json inside todo-list-client/src/utils/Key.json folder with f
 ```
 
 for more information : https://ethereum.stackexchange.com/questions/3092/how-to-encrypt-a-message-with-the-public-key-of-an-ethereum-address
-
-
 
 6. Change to todo-list-client project directory and Install dependencies for react-app & Run React-APP:
 
