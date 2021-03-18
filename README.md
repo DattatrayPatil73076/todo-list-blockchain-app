@@ -2,7 +2,7 @@
 
 This is Simple demo Project to Understand blockchain developement & depployment with Truffle, React and Ropsten Network.
 
-![alt text](https://github.com/DattatrayPatil73076/todo-list-blockchain-app/blob/master/todo-list-blockchain-app.png?raw=true)
+![alt text](https://raw.githubusercontent.com/DattatrayPatil73076/todo-list-blockchain-app/main/todo-list-blockchain-app.png)
 
 Live Here with Ropsten Network: https://todo-list-ropsten.netlify.app/
 
