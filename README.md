@@ -53,7 +53,7 @@ If you improve the app in any way a PR would be very apreciated ;)
 1. Clone the repo:
 
 ```console
-$ git clone https://github.com/DattatrayPatil73076/marketplace-blockchain-project
+$ git clone https://github.com/DattatrayPatil73076/todo-list-blockchain-app
 ```
 
 2. Start local blockchain with ganache-cli (keep it running until end on 127.0.0.1:8545):
